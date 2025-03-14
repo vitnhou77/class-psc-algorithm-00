@@ -1,7 +1,7 @@
 # Se encontre
 
 Faça um algoritmo que peça o número da sala que estudamos a disciplina de PSC.
-Se a sala informada for {307} escreva na tela: 
+Se a sala informada for {numeroSala} escreva na tela: 
 ~~~
 Você está no caminho certo.
 ~~~
